@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeoGamesOutcomeCalculator", "NeoGamesOutcomeCalculator\NeoGamesOutcomeCalculator.csproj", "{3E923037-F230-4868-9BB6-52A81920822D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeoGamesOutcomeCalculator.Test", "NeoGamesOutcomeCalculator.Test\NeoGamesOutcomeCalculator.Test.csproj", "{03C1DFB6-9BFC-4F8A-8585-DB3C0A8441FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E923037-F230-4868-9BB6-52A81920822D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E923037-F230-4868-9BB6-52A81920822D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E923037-F230-4868-9BB6-52A81920822D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E923037-F230-4868-9BB6-52A81920822D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C1DFB6-9BFC-4F8A-8585-DB3C0A8441FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C1DFB6-9BFC-4F8A-8585-DB3C0A8441FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C1DFB6-9BFC-4F8A-8585-DB3C0A8441FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C1DFB6-9BFC-4F8A-8585-DB3C0A8441FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8358873F-5F98-41E9-BBD5-CB3C8AB8376B}
+	EndGlobalSection
+EndGlobal
